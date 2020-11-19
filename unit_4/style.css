@@ -1,0 +1,51 @@
+
+    .footer {
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: red;
+      color: white;
+      text-align: center;
+    }
+    html, body {
+ background: url("https://www.yourworkoutbook.com/wp-content/uploads/2014/03/dumbbell-vs-barbell-bench-press.jpg") no-repeat center center fixed;
+ text-align: center;
+ background-size: 100% 100%;
+background-position: center;
+color: white;
+font-family: helvetica;
+ text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+ background-repeat: no-repeat;
+ width: 100%;
+height: 100%;
+max-width: 100%
+}
+.background
+{
+background: url("https://www.yourworkoutbook.com/wp-content/uploads/2014/03/dumbbell-vs-barbell-bench-press.jpg")
+
+
+
+}
+
+p {
+color: #fff;
+text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+h1{
+text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+font-family: 'Big Shoulders Stencil Text', cursive;
+}
+h2 {
+text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+font-family: 'Goldman', cursive;
+
+}
+h3 {
+text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+font-family: 'Goldman', cursive;
+}
+
+
+    
